@@ -5,6 +5,7 @@ git practice
 # DevOps Engineer
 Hello from Dhanraj
 
+<<<<<<< HEAD
 # Tectonic Community Forum
 
 Welcome to the Community Forum for Tectonic, the Enterprise Kubernetes Solution. 
@@ -33,3 +34,6 @@ To make the bug report accurate and easy to understand, please try to create iss
 * _Scoped_. One bug per issue; please do not follow up with another bug inside one report. It may be worthwhile to read [Elika Etemad’s article on filing good bug reports](http://fantasai.inkedblade.net/style/talks/filing-good-bugs/) before creating a bug report.
 
 We might ask for further information to locate a bug. A duplicated bug report will be closed.
+=======
+Updated for new-branch
+>>>>>>> 89cbd3455b89dc4b36c9571b33d9ef0e0cb0d69e
